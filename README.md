@@ -7,8 +7,7 @@ required by my create form, and `spice_level` and `is_vegetarian` have
 defaults, so `description` is the only column a dish can be saved without.
 
 **F2. Which step failed first, and what did the error say?**
-(Write this one yourself: your real error from screenshot 3, or
-whichever step actually broke first. Quote the message.)
+In step 3 for having error
 
 **F3. You changed no Blade file, yet your pages still work. Why?**
 My views only use `$dishes` and `$dish` and read fields like `->name` and
